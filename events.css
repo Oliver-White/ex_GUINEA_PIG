@@ -1,0 +1,14 @@
+  button {
+  display: block; }
+
+.color {
+  color: purple; }
+
+.hulkify {
+  font-size: 7em; }
+
+.captured {
+  border: 3px solid green; }
+
+.rounded {
+  border-radius: 25%; }
